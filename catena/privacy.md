@@ -1,6 +1,6 @@
 # Catena プライバシーポリシー
 
-開発者（運営者）：[@tomaneshi](https://x.com/tomaneshi)
+開発者（運営者）：[@tomane](https://x.com/tomaneshi)
 
 制定日：2026年9月21日
 
