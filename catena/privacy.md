@@ -30,7 +30,7 @@ Catenaから運営者や第三者へ、計算内容や利用状況を送信す�
 
 問い合わせ時に提供した情報について、確認や削除を希望する場合も、次の窓口へご連絡ください。
 
-問い合わせ先：[tomanesupport@gmail.com](mailto:tomanesupport@gmail.com)
+問い合わせ先：[tomanesupport@gmail.com](mailto:tomanesupport@gmail.com)  
 開発者（運営者）：@tomane
 
 ### 本ポリシーの変更
@@ -38,8 +38,6 @@ Catenaから運営者や第三者へ、計算内容や利用状況を送信す�
 Catenaの機能や情報の取り扱いを変更する場合は、必要に応じて本ポリシーを更新し、このページに変更後の内容と更新日を掲載します。
 
 ## English
-
-Developer (operator): [@tomane](https://x.com/tomaneshi)
 
 Date established: September 21, 2026
 
@@ -67,7 +65,7 @@ If you contact the developer by email, your email address and the contents of yo
 
 To check the information you provided in an inquiry or request its deletion, please use the contact address below.
 
-Contact: [tomanesupport@gmail.com](mailto:tomanesupport@gmail.com)
+Contact: [tomanesupport@gmail.com](mailto:tomanesupport@gmail.com)  
 Developer (operator): @tomane
 
 ### Changes to this policy
