@@ -4,8 +4,6 @@
 
 ## 日本語
 
-開発者（運営者）：[@tomane](https://x.com/tomaneshi)
-
 制定日：2026年9月21日
 
 本ポリシーは、iPhone向け電卓アプリ「Catena」における情報の取り扱いについて説明します。
@@ -33,6 +31,7 @@ Catenaから運営者や第三者へ、計算内容や利用状況を送信す�
 問い合わせ時に提供した情報について、確認や削除を希望する場合も、次の窓口へご連絡ください。
 
 問い合わせ先：[tomanesupport@gmail.com](mailto:tomanesupport@gmail.com)
+開発者（運営者）：@tomane
 
 ### 本ポリシーの変更
 
@@ -69,6 +68,7 @@ If you contact the developer by email, your email address and the contents of yo
 To check the information you provided in an inquiry or request its deletion, please use the contact address below.
 
 Contact: [tomanesupport@gmail.com](mailto:tomanesupport@gmail.com)
+Developer (operator): @tomane
 
 ### Changes to this policy
 
